@@ -1,2 +1,0 @@
-# Design-basic
-Design Basics
